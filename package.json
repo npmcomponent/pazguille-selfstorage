@@ -1,0 +1,14 @@
+{
+  "name": "pazguille-selfstorage",
+  "description": "Library for caching JavaScript resources in the localStorage.",
+  "version": "0.0.1",
+  "keywords": [
+    "localStorage",
+    "storage",
+    "cache",
+    "store",
+    "offline"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
